@@ -1,0 +1,53 @@
+{
+  "name": "diploma-tms-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/react-select": "^4.0.17",
+    "eslint-plugin-html": "^6.1.2",
+    "node-sass": "^6.0.1",
+    "normalize.css": "^8.0.1",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-select": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/node-sass": "^4.11.0",
+    "@types/react-router": "^5.1.16",
+    "@types/react-router-dom": "^5.1.9",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
+    "css-loader": "^6.3.0",
+    "css-modules-typescript-loader": "^2.0.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "node-sass": "^4.12.0",
+    "sass": "^1.41.1",
+    "sass-loader": "^7.3.1",
+    "style-loader": "^3.2.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.4",
+    "typings-for-css-modules-loader": "^1.7.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaVeresk/Diploma-TMS-Weather-App.git"
+  },
+  "author": "Sasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaVeresk/Diploma-TMS-Weather-App/issues"
+  },
+  "homepage": "https://github.com/SashaVeresk/Diploma-TMS-Weather-App#readme"
+}
